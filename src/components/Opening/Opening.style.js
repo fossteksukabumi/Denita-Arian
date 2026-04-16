@@ -147,6 +147,7 @@ export const OpenButton = styled.button`
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #f0e6d3;
+  margin: 0 0 8.5rem;
 
   background: transparent;
   border: 1px solid rgba(235, 220, 195, 0.55);
