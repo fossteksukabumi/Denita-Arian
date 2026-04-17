@@ -39,7 +39,7 @@ function Akad() {
 
           <TimeInfo>
             <TimeLabel>Resepsi Pukul</TimeLabel>
-            <Time>11.00 WIB s/d 15.00 WIB</Time>
+            <Time>11.00 WIB s/d Selesai WIB</Time>
           </TimeInfo>
 
           <LocationInfo>
