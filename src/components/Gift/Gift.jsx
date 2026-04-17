@@ -25,7 +25,7 @@ function Gift() {
     {
       bank: "BCA",
       accountNumber: "1291349965",
-      accountName: "Denita Saputri",
+      accountName: "Arian Priyana",
     },
   ];
 
